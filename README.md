@@ -1,4 +1,4 @@
-## ✨Olá, me chamo Bianca !✨
+## ✨Olá, me chamo Biancat !✨
 
 - 🌱 Atualmente estou aprendendo sobre: git, lógica de programação. Próxima etapa > escolher uma linguagem: Python ou JAVA para iniciar.
 - 🤔 Estou procurando ajuda com automação de testes de API
